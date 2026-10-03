@@ -1,16 +1,31 @@
-## Hi there 👋
+# Umar Basra
 
-<!--
-**umarbasra03/umarbasra03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a Software Engineering student at UET Lahore. I am interested in software development, programming, and learning new technologies. I am currently improving my programming and development skills through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+| Category | Technologies |
+|---|---|
+| Languages | C#, Python, JavaScript |
+| Web | HTML, CSS, Bootstrap |
+| Database | SQL Server, MySQL |
+| Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+
+### Event Management System
+A system developed to manage events, guests, bookings, budgets, expenses, and feedback.
+
+### Cafe Management System
+A desktop-based management system developed using C# and SQL Server.
+
+## Education
+
+**BS Software Engineering**  
+University of Engineering and Technology (UET), Lahore
+
+## Contact
+
+- GitHub: [@umarbasra03E](https://github.com/umarbasra03)
